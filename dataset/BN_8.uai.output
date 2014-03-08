@@ -1,0 +1,22 @@
+c Debugging is ON.
+Reading bayesnet
+Directed Graph constructed
+Number of Relevant nodes = 183 out of 183
+Counting constraints
+Solver inited
+Domains reduced
+Domains reduced
+Max cluster size =8
+Estimate  = 4.98385e+06
+num evidence = 27
+Limit = 1e+07
+#sampled variables = 0 out of 139
+num values = 1
+Counting constraints
+t 3.36749
+z -23.5981
+---------------------------RESULT------------------------------
+	 Log Base e probability of evidence = -54.3367
+	 Log Base 10 probability of evidence = -23.5981
+	 Probability of evidence = 2.52283e-24
+---------------------------RESULT------------------------------
